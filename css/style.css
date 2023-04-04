@@ -99,11 +99,46 @@
 
             padding: 30px 80px;
         }
+        /* SECTION CONTAINER */
+            .section-container{
+                margin-bottom: 5%;
+            }
+        /* FINE SECTION CONTAINER */
         /* TITOLO SECTION */
             .titolo-section{
                 font-size: 30px;
-                margin-bottom: 3%;
             }
         /* FINE TITOLO SECTION */
+        /* UNORDERED LIST */
+            ul{
+                list-style-type: none;
+                margin: 10px 3px;
+                font-size: 20px;
+            }
+        /* FINE UNORDERED LIST */
+        /* LIST ITEM */
+            li{
+                margin-top: 2%;
+                margin-bottom: 3%;
+            }
+        /* FINE LIST ITEM */
+        /* ENTITY CHECK */
+            .entity-check{
+                padding: 1px 5px;
+                margin-right: 10px;
+                color: lime;
+                border: 1px solid lime;
+                border-radius: 50%;
+            }
+        /* FINE ENTITY CHECK */
+        /* ENTITY CROSS */
+            .entity-cross{
+                padding: 1px 5px;
+                margin-right: 10px;
+                color: red;
+                border: 1px solid red;
+                border-radius: 50%;
+            }
+        /* FINE ENTITY CROSS */
     /* FINE LIST CONTAINER */
 /* FINE MAIN */
