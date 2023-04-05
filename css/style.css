@@ -32,8 +32,9 @@
     .titolo{
         display: inline-block;
 
-        font-size: 50px;
+        font-size: 70px;
         margin-left: 10px;
+        padding-bottom: 10px;
     }
 /* FINE HEADER */
 
@@ -104,7 +105,7 @@
         /* FINE SECTION CONTAINER */
         /* TITOLO SECTION */
             .titolo-section{
-                font-size: 30px;
+                font-size: 27px;
             }
         /* FINE TITOLO SECTION */
         /* UNORDERED LIST */
@@ -116,7 +117,7 @@
         /* FINE UNORDERED LIST */
         /* LIST ITEM */
             li{
-                margin-top: 2%;
+                margin-top: 1%;
                 margin-bottom: 3%;
             }
         /* FINE LIST ITEM */
@@ -126,6 +127,8 @@
                 margin-right: 15px;
 
                 border-radius: 50%;
+
+                vertical-align: middle;
             }
         /* FINE ENTITY */
         /* ENTITY CHECK */
