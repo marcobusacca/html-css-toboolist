@@ -17,7 +17,7 @@
     }
 
     #header-container{
-        margin: 15px 30px;  
+        margin: 15px 30px;
     }
 
     .header{
@@ -60,32 +60,30 @@
 
             padding: 15px 80px;
         }
-        /* BUTTON 1 */
-            #button-1{
+        /* BUTTON */
+            .button{
                 padding: 7px 15px;
+                border-radius: 5px;
 
                 font-weight: bold;
-
+            }
+        /* FINE BUTTON */
+        /* BUTTON 1 */
+            .button1{
                 border: 2px solid rgba(0, 145, 255, 0.845);
-                border-radius: 5px;
 
                 background-color: rgba(0, 145, 255, 0.845);
                 color: white;
             }
         /* FINE BUTTON 1 */
         /* BUTTON 2 */
-            #button-2{
-                padding: 7px 15px;
+            .button2{
                 margin-left: 5px;
-
-                font-weight: bold;
                 
                 border: 2px solid rgb(159, 159, 159);
-                border-radius: 5px;
 
                 background-color: white;
                 color: rgb(159, 159, 159);
-                
             }
         /* FINE BUTTON 2 */
     /* FINE INPUT CONTAINER */
@@ -122,105 +120,71 @@
                 margin-bottom: 3%;
             }
         /* FINE LIST ITEM */
-        /* ENTITY CHECK */
-            .entity-check{
+        /* ENTITY */
+            .entity{
                 padding: 1px 5px;
                 margin-right: 15px;
+                
+                border-radius: 50%;
+            }
+        /* FINE ENTITY */
+        /* ENTITY CHECK */
+            .check{
                 color: rgb(23, 211, 13);
                 border: 1px solid rgb(23, 211, 13);
-                border-radius: 50%;
             }
         /* FINE ENTITY CHECK */
         /* ENTITY CROSS */
-            .entity-cross{
-                padding: 1px 5px;
-                margin-right: 15px;
+            .cross{
                 color: red;
                 border: 1px solid red;
-                border-radius: 50%;
             }
         /* FINE ENTITY CROSS */
-        /* LABEL 1 */
-            .label-1{
+        /* LABEL */
+            .label{
                 padding: 7px 15px;
                 margin-left: 5px;
-    
+
                 font-size: 15px;
-    
-                border: 1px solid rgba(0, 145, 255, 0.845);
+
                 border-radius: 50px;
-    
+
                 color: white;
+            }
+        /* FINE LABEL */
+        /* LABEL 1 */
+            .type1{
+                border: 1px solid rgba(0, 145, 255, 0.845);
                 background-color: rgba(0, 145, 255, 0.845);
             }
         /* FINE LABEL 1 */
         /* LABEL 2 */
-            .label-2{
-                padding: 7px 15px;
-                margin-left: 5px;
-
-                font-size: 15px;
-
+            .type2{
                 border: 1px solid rgba(115, 0, 255, 0.845);
-                border-radius: 50px;
-
-                color: white;
                 background-color: rgba(115, 0, 255, 0.845);
             }
         /* FINE LABEL 2 */
         /* LABEL 3 */
-            .label-3{
-                padding: 7px 15px;
-                margin-left: 5px;
-
-                font-size: 15px;
-
+            .type3{
                 border: 1px solid rgba(55, 142, 9, 0.845);
-                border-radius: 50px;
-
-                color: white;
                 background-color: rgba(55, 142, 9, 0.845);
             }
         /* FINE LABEL 3 */
         /* LABEL 4 */
-            .label-4{
-                padding: 7px 15px;
-                margin-left: 5px;
-
-                font-size: 15px;
-
+            .type4{
                 border: 1px solid rgb(255, 174, 0);
-                border-radius: 50px;
-
-                color: white;
                 background-color: rgb(255, 174, 0);
             }
         /* FINE LABEL 4 */
         /* LABEL 5 */
-            .label-5{
-                padding: 7px 15px;
-                margin-left: 5px;
-
-                font-size: 15px;
-
+            .type5{
                 border: 1px solid rgb(255, 0, 255);
-                border-radius: 50px;
-
-                color: white;
                 background-color: rgb(255, 0, 255);
             }
         /* FINE LABEL 5 */
         /* LABEL 6 */
-            .label-6{
-                padding: 7px 15px;
-                margin-left: 5px;
-
-                font-size: 15px;
-
+            .type6{
                 border: 1px solid rgb(157, 195, 19);
-                border-radius: 50px;
-
-                color: white;
                 background-color: rgb(157, 195, 19);
             }
         /* FINE LABEL 6 */
